@@ -1,0 +1,1 @@
+print("Salom ustoz man git ga qoshildim")
