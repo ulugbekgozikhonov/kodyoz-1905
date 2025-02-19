@@ -1,6 +1,1 @@
-print("""
-        *   *  
-             
-    **         **
-      *********  
-""")
+print("2-commit Bilolxoja")
