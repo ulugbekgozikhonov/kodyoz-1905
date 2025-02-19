@@ -1,0 +1,1 @@
+print("Hayir ustoz man gittan chiqib kettim")
