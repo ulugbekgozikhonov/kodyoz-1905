@@ -1,0 +1,1 @@
+print('salom men qoshildim')
