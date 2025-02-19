@@ -1,0 +1,1 @@
+print("ustozjon gitga qo'shildim")
